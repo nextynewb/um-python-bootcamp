@@ -26,4 +26,4 @@ if inflation_rate > 5 and unemployment_rate < 7:
 elif inflation_rate < 5 and unemployment_rate > 7:
     print("Low Inflation and High Unemployment")
 elif inflation_rate < 5 and unemployment_rate < 7:
-    print("Low Inflation and Low Unemployment") 
+    print("Low Inflation and Low Unemployment!") 
